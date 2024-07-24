@@ -1,2 +1,2 @@
 # Blogging-Frontend
-Front End project of blogging website
+Frontend project of blogging website
